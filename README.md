@@ -9,4 +9,4 @@ Our goals for this case study include the following:
    * Run stationarity and cointegration tests
    * Create, backtest, visualize, and assess our pairs trading strategy
    
-## Please refer to the text-embedded jupyter file (Code/case-study-code.ipynb) for further explanation.
+### Please refer to the text-embedded jupyter file (Code/case-study-code.ipynb) for further explanation.
